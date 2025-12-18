@@ -253,7 +253,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## 🤖 _MALVIN-XD STATUS_
+## 🤖 _ZIMCYBER-XD STATUS_
 
 ```diff
 + Project Status: Active
